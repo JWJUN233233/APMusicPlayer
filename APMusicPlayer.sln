@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APMusicPlayer", "APMusicPlayer\APMusicPlayer.csproj", "{A28EA473-B3EC-483D-BFA6-86A096BF1AC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APMusicPlayer.Desktop", "APMusicPlayer.Desktop\APMusicPlayer.Desktop.csproj", "{F801AE6D-54ED-4F83-A4E2-8CCB4ABCF1DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APMusicPlayer.Android", "APMusicPlayer.Android\APMusicPlayer.Android.csproj", "{961FE523-2331-4053-8424-9E1A276057A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APMusicPlayer.Browser", "APMusicPlayer.Browser\APMusicPlayer.Browser.csproj", "{644BCC75-7460-4C6F-BF28-DC3DA49EDD04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APMusicPlayer.iOS", "APMusicPlayer.iOS\APMusicPlayer.iOS.csproj", "{29BD6901-B7F4-4CEA-9B34-D8B8167E3960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28EA473-B3EC-483D-BFA6-86A096BF1AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28EA473-B3EC-483D-BFA6-86A096BF1AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28EA473-B3EC-483D-BFA6-86A096BF1AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28EA473-B3EC-483D-BFA6-86A096BF1AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F801AE6D-54ED-4F83-A4E2-8CCB4ABCF1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F801AE6D-54ED-4F83-A4E2-8CCB4ABCF1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F801AE6D-54ED-4F83-A4E2-8CCB4ABCF1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F801AE6D-54ED-4F83-A4E2-8CCB4ABCF1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961FE523-2331-4053-8424-9E1A276057A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961FE523-2331-4053-8424-9E1A276057A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961FE523-2331-4053-8424-9E1A276057A6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{961FE523-2331-4053-8424-9E1A276057A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961FE523-2331-4053-8424-9E1A276057A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961FE523-2331-4053-8424-9E1A276057A6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{644BCC75-7460-4C6F-BF28-DC3DA49EDD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644BCC75-7460-4C6F-BF28-DC3DA49EDD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644BCC75-7460-4C6F-BF28-DC3DA49EDD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644BCC75-7460-4C6F-BF28-DC3DA49EDD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BD6901-B7F4-4CEA-9B34-D8B8167E3960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BD6901-B7F4-4CEA-9B34-D8B8167E3960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BD6901-B7F4-4CEA-9B34-D8B8167E3960}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{29BD6901-B7F4-4CEA-9B34-D8B8167E3960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BD6901-B7F4-4CEA-9B34-D8B8167E3960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BD6901-B7F4-4CEA-9B34-D8B8167E3960}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2D74F1-4744-457A-8042-EBF06CF92BE3}
+	EndGlobalSection
+EndGlobal
